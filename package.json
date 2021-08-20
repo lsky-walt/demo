@@ -1,0 +1,14 @@
+{
+  "name": "demo",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:lsky-walt/demo.git",
+  "author": "lsky-walt <lsky_walt@163.com>",
+  "license": "MIT",
+  "scripts": {
+    "deploy": "gh-pages -d dist"
+  },
+  "devDependencies": {
+    "gh-pages": "^3.2.3"
+  }
+}
