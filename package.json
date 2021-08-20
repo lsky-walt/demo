@@ -4,6 +4,7 @@
   "main": "index.js",
   "repository": "git@github.com:lsky-walt/demo.git",
   "author": "lsky-walt <lsky_walt@163.com>",
+  "homepage": "https://lsky-walt.github.io/demo",
   "license": "MIT",
   "scripts": {
     "deploy": "gh-pages -d dist"
